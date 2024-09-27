@@ -17,7 +17,7 @@ function newstate(){
               </h1>
             </div>
 
-            <nav>
+            <nav className= {togglemenu? "navhamburguer": ""} >
                 <a href="#" className='linkheader'>
                   <button>inicio</button>
                 </a>
@@ -28,12 +28,12 @@ function newstate(){
                   <button>Privacidade</button>
                 </a>
 
+            </nav>
                 <div className='boxiconmenu' onClick={newstate}>
                    <div className= {togglemenu ? "activemenu iconmenu" : "iconmenu"}>
                     {/* icon menu */}
                    </div> 
                 </div>
-            </nav>
         </header>
     </div>
   )
