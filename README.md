@@ -23,6 +23,18 @@
 ![função para mudar o state de toggle para true e false](https://github.com/user-attachments/assets/bbd1a1dd-af85-4fab-aa8a-d4b245d6f73b)
 ![Codigo condicional para remover e adicionar a classe com base no state](https://github.com/user-attachments/assets/cb01b604-df90-46f9-9bb3-d67f61012c5c)
 
+# Para que serve o menu hamburguer?
+
+### Economizar Espaço: Em telas pequenas, como smartphones, ele reduz a quantidade de espaço ocupada por links de navegação, permitindo um design mais limpo.
+
+### Organização: Agrupa links de forma compacta, mantendo o layout do site mais organizado e visualmente agradável.
+
+### Acesso Rápido: Facilita a navegação, permitindo que os usuários acessem diferentes seções do site com um único clique.
+
+### Experiência do Usuário: Melhora a usabilidade, especialmente em dispositivos móveis, onde a navegação precisa ser intuitiva.
+
+### Estilo Moderno: É um elemento de design moderno que muitas vezes se associa a uma abordagem minimalista e contemporânea.
+
 
 
 
